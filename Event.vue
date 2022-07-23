@@ -6,6 +6,7 @@
     <button v-on:click="getdata()">for count</button>
     <button v-on:click="getconsole()">clik me</button>
     <h2>{{count}}</h2>
+    <h2>hi</h2>
 </div>
 </template>
 <script>
